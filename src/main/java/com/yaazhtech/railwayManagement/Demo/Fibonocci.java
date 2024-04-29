@@ -1,5 +1,4 @@
 package com.yaazhtech.railwayManagement.Demo;
-
 public class Fibonocci
 {
     public static void main(String[] args) {
